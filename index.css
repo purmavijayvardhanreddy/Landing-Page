@@ -1,6 +1,6 @@
 body{
   background-color: rgb(242, 242, 232);
-  background-image: url('/images/land.jpg');
+  background-image: url('./land.jpg');
   background-size: cover;
 }
 .md{
